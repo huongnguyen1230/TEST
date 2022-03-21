@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Form-demo</string>
+
+    <string name="register_form">Register Form</string>
+    <string name="text_first_name">First Name</string>
+    <string name="firstname">Enter Firstname</string>
+    <string name="text_last_name">Last Name</string>
+    <string name="lastname">Enter Lastname</string>
+    <string name="text_password">Password</string>
+    <string name="password">Enter Password</string>
+    <string name="text_address">Address</string>
+    <string name="address">Enter Address</string>
+    <string name="text_phone">Phone</string>
+    <string name="phone_number">Enter Phone Number</string>
+    <string name="avatar">Avatar</string>
+    <string name="text_email">Email</string>
+    <string name="email">Enter Email</string>
+    <string name="text_dob">Date Of Birth</string>
+    <string name="date_of_birth">Enter Date Of Birth</string>
+    <string name="text_gender">Date Of Birth</string>
+    <string name="gender">Enter gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="register">Register</string>
+
+    <string name="login_form">Login Form</string>
+
+
+</resources>
