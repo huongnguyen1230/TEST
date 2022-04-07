@@ -6,6 +6,27 @@
         <entry key="..\:/SEM4/ANDROID/FORM/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/SEM4/ANDROID/FORM/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/SEM4/ANDROID/FORM/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.112" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/drawable/circle.xml" value="0.112" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.112" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/drawable/ic_baseline_library_music_24.xml" value="0.112" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/drawable/ic_baseline_music_note_24.xml" value="0.169" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/drawable/ic_launcher_background.xml" value="0.112" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/drawable/img.xml" value="0.112" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/font/baloo.xml" value="0.234375" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/layout/activity_list_song.xml" value="0.20416666666666666" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/layout/activity_listsong.xml" value="0.22" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/layout/activity_song_detail.xml" value="0.25" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/layout/bottom_sheet_dialog_layout.xml" value="0.1" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/layout/item_song.xml" value="0.20416666666666666" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/layout/list_song.xml" value="0.18" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/layout/recycle_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/menu/application_menu.xml" value="0.1" />
+        <entry key="..\:/SEM4/TEST/FORM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1015" />
       </map>
     </option>
   </component>

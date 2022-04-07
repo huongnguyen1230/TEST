@@ -12,13 +12,13 @@
     <string name="address">Enter Address</string>
     <string name="text_phone">Phone</string>
     <string name="phone_number">Enter Phone Number</string>
-    <string name="avatar">Avatar</string>
+    <string name="text_avatar">Avatar</string>
+    <string name="avatar">Upload your avatar</string>
     <string name="text_email">Email</string>
     <string name="email">Enter Email</string>
     <string name="text_dob">Date Of Birth</string>
     <string name="date_of_birth">Enter Date Of Birth</string>
-    <string name="text_gender">Date Of Birth</string>
-    <string name="gender">Enter gender</string>
+    <string name="text_gender">Gender</string>
     <string name="male">Male</string>
     <string name="female">Female</string>
     <string name="register">Register</string>
